@@ -8,4 +8,6 @@ Image_Processing Extracting boundary pixels of the 3 main objects only and remov
 
 Mean-and-linear-Filters-MATLAB
 
+Many-Segmentation-Types
+
 
