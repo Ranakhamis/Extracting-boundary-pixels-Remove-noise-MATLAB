@@ -10,4 +10,6 @@ Mean-and-linear-Filters-MATLAB
 
 Many-Segmentation-Types
 
+Removing-Moire-Pattern-using-Fourier-Transform
+
 
